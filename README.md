@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 
 
-<!--
-**imkhoa99/imkhoa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my Github :octocat:**
+<br>
+My name is Khoa, a 3rd year Bachelor Data Science student at Aalto University. I come from Ho Chi Minh City, Viet Nam and currently live in Espoo, Finland.
 
-Here are some ideas to get you started:
+### Education 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|      School :bug:  |    Degree   |    Major   | Minor  | Academic Year  |
+|---------------------|---------------------|---------------------|---------------------|-----|
+| [**Aalto University - School of Science**](https://www.aalto.fi/en) | Bachelor of Science, Data Science | Data Science | Statistics | 2018-2021 |
+| [**The Asian International School**](http://www.asianintlschool.edu.vn/en-us)  | Highschool Diploma, Natural Sciences | 2015-2017 |
+
+<br />
+
+### Work Experience 🔭
+
+|      Company   |    Location   |    Position    |    Squad |  Duration  |
+|---------------------|-------------------|------------------|------------------|---|
+| **Nokia Solutions and Networks** | Espoo, Finland | Machine Learning Trainee | Radio Cloud Infrastructure - Advanced Technology Group |May 2020 - Present |
+
+<br />
+
+### How to reach me 📫
+<a href="mailto:llmkhoa511@gmail.com">Send Email</a>
+[LinkedIn](https://www.linkedin.com/in/khoalai/) 
+
+
+<br />
