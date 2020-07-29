@@ -1,8 +1,8 @@
 ### Hi there 
 
-**Welcome to my Github :octocat:**
+**Welcome to my Github ✌**
 <br>
-My name is Khoa, a 3rd year Bachelor Data Science student at Aalto University. I come from Ho Chi Minh City, Viet Nam and currently live in Espoo, Finland.
+My name is Khoa, a 3rd-year Bachelor Data Science student at Aalto University. I come from Ho Chi Minh City, Viet Nam and currently live in Espoo, Finland.
 
 ### Education 🌱
 
@@ -13,7 +13,7 @@ My name is Khoa, a 3rd year Bachelor Data Science student at Aalto University. I
 
 <br />
 
-### Work Experience 🔭
+### Work Experience 💻
 
 |      Company   |    Location   |    Position    |    Squad |  Duration  |
 |---------------------|-------------------|------------------|------------------|---|
