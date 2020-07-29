@@ -9,7 +9,7 @@ My name is Khoa, a 3rd-year Bachelor Data Science student at Aalto University. I
 |      School :bug:  |    Degree   |    Major   | Minor  | Academic Year  |
 |---------------------|---------------------|---------------------|---------------------|-----|
 | [**Aalto University - School of Science**](https://www.aalto.fi/en) | Bachelor of Science, Data Science | Data Science | Statistics | 2018-2021 |
-| [**The Asian International School**](http://www.asianintlschool.edu.vn/en-us)  | Highschool Diploma, Natural Sciences | 2015-2017 |
+| [**The Asian International School**](http://www.asianintlschool.edu.vn/en-us)  | Highschool Diploma, Natural Sciences | | 2015-2017 |
 
 <br />
 
