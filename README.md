@@ -17,7 +17,7 @@ My name is Khoa, a 3rd-year Bachelor Data Science student at Aalto University. I
 
 |      Company   |    Location   |    Position    |    Squad |  Duration  |
 |---------------------|-------------------|------------------|------------------|---|
-| **Nokia Solutions and Networks** | Espoo, Finland | Machine Learning Trainee | Radio Cloud Infrastructure - Advanced Technology Group |May 2020 - Present |
+| [**Nokia Solutions and Networks**](https://www.nokia.com/fi_fi/)| Espoo, Finland | Machine Learning Trainee | Radio Cloud Infrastructure - Advanced Technology Group |May 2020 - Present |
 
 <br />
 
