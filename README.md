@@ -4,6 +4,34 @@
 <br>
 My name is Khoa, a 3rd-year Bachelor Data Science student at Aalto University. I come from Ho Chi Minh City, Viet Nam and currently live in Espoo, Finland.
 
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=imkhoa99&label=Profile%20views&color=0e75b6&style=flat"
+    alt="imkhoa99"
+  />
+</p>
+
+<details>
+<summary>📊 Recent Github Activity</summary>
+  <p align="center">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=imkhoa99&show_icons=true&locale=en&theme=dark"
+      alt="imkhoa99"
+    />
+  </p>
+</details>
+
+<details>
+  <summary>📈 Github stats</summary>
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=imkhoa99&show_icons=true&locale=en&theme=dark"
+      alt="imkhoa99"
+    />
+  </p>
+</details>
+
 ### Education 🌱
 
 |      School :bug:  |    Degree   |    Major   | Minor  | Academic Year  |
