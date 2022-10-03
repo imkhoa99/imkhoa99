@@ -2,7 +2,7 @@
 
 **Welcome to my Github ✌**
 <br>
-My name is Khoa, a 1rd-year Master Data Science student at Aalto University. I come from Ho Chi Minh City, Viet Nam and currently live in Espoo, Finland.
+My name is Khoa, a 2nd-year Master Data Science student at Aalto University. I come from Ho Chi Minh City, Viet Nam and currently live in Espoo, Finland.
 
 <p align="center">
   <img
