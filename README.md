@@ -45,7 +45,7 @@ My name is Khoa, a 2nd-year Master Data Science student at Aalto University. I c
 
 |      Company   |    Location   |    Position    |    Squad |  Duration  |
 |---------------------|-------------------|------------------|------------------|---|
-| [**Nokia Solutions and Networks**](https://www.nokia.com/fi_fi/)| Espoo, Finland | Machine Learning Trainee | Radio Cloud Infrastructure - Advanced Technology Group |May 2020 - Present |
+| [**Nokia Solutions and Networks**](https://www.nokia.com/fi_fi/)| Espoo, Finland | Machine Learning Trainee | Radio Cloud Infrastructure - Advanced Technology Group |May 2020 - May 2021 |
 | [**KONE Corporation**](https://www.kone.com/en/)| Espoo, Finland | Data Scientist Trainee | Analytics Center of Excellence | June 2021 - September 2022 |
 
 <br />
